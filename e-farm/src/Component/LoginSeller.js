@@ -7,6 +7,7 @@ import {Link} from 'react-router-dom';
 //import { SellerHome } from './SellerHome';
 export default function LoginSeller () {
   return(
+    
     <>
     <div class="Parent" style={{backgroundImage:'url("img1.jpg")',backgroundRepeat:'no-repeat',backgroundSize:'cover',height:'100vh'}}>
    <h1 style={{padding:'50px'}}>Welcome Seller</h1>
