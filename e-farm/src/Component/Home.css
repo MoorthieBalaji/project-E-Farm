@@ -1,0 +1,21 @@
+.mask{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.into-img{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
+}
+
+.main{
+    height: 100%;
+    width: 100%;
+}
+.btn{
+    justify-content: center;
+    align-items: center;
+}
